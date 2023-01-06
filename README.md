@@ -9,6 +9,7 @@ A simple app that allows you to keep track of countable items.
 To use the app, follow these steps:
   Open the app.
 1) Tap the + button to increment the count by 1.
+
 2)Tap the reset button to set the count back to 0.
 
 ### Dependencies
